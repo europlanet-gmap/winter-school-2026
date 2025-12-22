@@ -75,40 +75,6 @@ PROJCRS["unknown",
                 ID["EPSG",9001]]]]
 ```
 
----
-
-### **Venus Mapping Project**
-
-[Project link](https://github.com/europlanet-gmap/winter-school-2025/tree/main/venus)
-
-#### Proj4 CRS
-
-```
-+proj=merc +lat_ts=-40 +lon_0=-90 +x_0=0 +y_0=0 +R=6051000 +units=m +no_defs +type=crs
-```
-
-#### WKT CRS
-
-*(See README for full details)*
-
----
-
-### **Mercury Mapping Project**
-
-[Project link](https://github.com/europlanet-gmap/winter-school-2025/tree/main/mercury)
-
-#### Proj4 CRS
-
-```
-+proj=longlat +R=2439700 +no_defs +type=crs
-```
-
-#### WKT CRS
-
-*(See README for full details)*
-
----
-
 ### **Moon Mapping Project**
 
 [Project link](https://github.com/europlanet-gmap/winter-school-2025/tree/main/moon)
@@ -175,4 +141,5 @@ For more details, see:
 This guide provides essential details for working with **custom planetary projections in QGIS**. If you encounter any issues, refer to the respective project links or the [Europlanet GMAP Winter School](https://github.com/europlanet-gmap/winter-school-2025) repository.
 
 Happy Mapping!
+
 
