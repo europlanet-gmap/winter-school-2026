@@ -5,7 +5,7 @@ This is the repostory for the 2026 edition of the Europlanet GMAP winter School.
 
 Here you will find basic guides about planetary mapping, how to use QGIS, and information about the hands-on you will do this year.
 
-For basic information about the school, liek registration, schedule, and times, please reach the main webpage:
+For basic information about the school, like registration, schedule, and times; please visit the main webpage:
 
 https://www.planetarymapping.eu/
 
