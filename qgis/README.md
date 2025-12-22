@@ -1,11 +1,11 @@
-#QGIS
+# QGIS
 The winter school will use the latest version of QGIS available. Materials have been tested on version 3.38.
 
 Please refer to the documentation.
 
 A dedicate troubleshooting page is available, with tips and caveats related to the 2024 winter school. The guide is an incremental update to the version used in the 2023 GMAP Winter School.
 
-#General GIS resources
+# General GIS resources
 Assorted resources:
 
 GIS wikipedia entry - https://en.wikipedia.org/wiki/Geographic_information_system
@@ -14,6 +14,6 @@ Destkop QGIS tutorial - https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-w
 Awesome GIS - https://github.com/sshuair/awesome-gis
 Awesome geospatial - https://github.com/sacridini/Awesome-Geospatial
 
-#Color ramps
+# Color ramps
 see e.g. https://mycartablog.com/tag/perceptual-colormap/
 https://mycartablog.com/color-palettes/
