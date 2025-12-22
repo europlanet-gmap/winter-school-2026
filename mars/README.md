@@ -5,35 +5,49 @@ Relevant references are included below.
 Objectives: 
 
 Geological and morphological mapping of the Moreux Crater area on Mars, focusing on crater-related, glacial-like and aeolian landforms.
+
 Data required: 
 
 CTX image
 Steps involved (quick description / screenshots, etc.):
 Delineate linear features and geological units, focusing on impact-related, glacial-like, and aeolian morphologies.
+
 Expected result:
 
 Obtain a geological map of Moreux Crater and study the characteristics of a glacier-like form near the central peak.
 Task short guide
+
 Objective:
 
 Create a geological map of Moreux Crater.
+
 Data required:
 
 CTX image
-Steps involved (quick description / screenshots, etc.):
+
+## Steps involved (quick description / screenshots, etc.):
+
 1.	Mapping of crater units: rims, scarps, floor, central peak, and rough apron textures;
 2.	Mapping of glacial landforms: valley glacier-like features on crater rims and central peak;
 3.	Mapping of aeolian landforms: dunes;
 4.	Identification of small impact craters;
 5.	Focusing on the central peak glacier, highlighted by a polygon and mapping its different linear features.
+
 Expected results:
+
 A geomorphological map of the crater, with particular emphasis on the glacial features in the area. 
 Mapping in detail the central peak glacier using linear features.
-References
+
+## References
+
 Rishitosh K. Sinha, S.V.S. Murty, Amazonian modification of Moreux crater: Record of recent and episodic glaciation in the Protonilus Mensae region of Mars, Icarus, Volume 245, 2015, Pages 122-144, https://doi.org/10.1016/j.icarus.2014.09.028.
-Data package availability
+
+## Data package availability
+
 https://zenodo.org/doi/10.5281/zenodo.1051574
-Coordinate Reference System (CRS)
+
+## Coordinate Reference System (CRS)
+
 Mars (2015) / Ocentric / Equirectangular, clon = 0
 Proj4 CRS 
 +proj=eqc +lat_ts=0 +lat_0=0 +lon_0=0 +x_0=0 +y_0=0 +a=3396190 +b=3376200 +units=m +no_defs
