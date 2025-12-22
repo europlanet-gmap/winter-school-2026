@@ -1,9 +1,9 @@
 # QGIS
-The winter school will use the latest version of QGIS available. Materials have been tested on version 3.38.
+The winter school will use the latest version of QGIS available. Materials have been tested on version 3.40.
 
 Please refer to the documentation.
 
-A dedicate troubleshooting page is available, with tips and caveats related to the 2024 winter school. The guide is an incremental update to the version used in the 2023 GMAP Winter School.
+A dedicate troubleshooting page is available, with tips and caveats related to the 2025 winter school. The guide is an incremental update to the version used in the 2024 GMAP Winter School.
 
 # General GIS resources
 Assorted resources:
