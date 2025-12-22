@@ -11,5 +11,6 @@ https://www.planetarymapping.eu/
 
 <hr/> 
 
+The GMAP Winter School is sponsered by:
 ![alt text](https://github.com/europlanet-gmap/winter-school-2026/blob/main/Images/europlanet.png)
 
