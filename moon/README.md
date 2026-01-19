@@ -1,5 +1,7 @@
 ## The Moon: hands-on short guide
 
+Important: If you are a Mac user, please set the crs of your QGIS project to ESRI:103881 before mapping, since sometimes your QGIS might not do it automatically.
+
 Overview: This exercise involves a workflow to do a complete landing site assessment analysis of the study area located within Mare Ingenii, one of the few lunar mare features on the far side. It is characterized by the presence of a pit and of lunar swirls. 
 
 ## Hands-on objectives
