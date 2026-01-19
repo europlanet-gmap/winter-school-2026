@@ -5,6 +5,8 @@ Please refer to the documentation.
 
 A dedicate troubleshooting page is available, with tips and caveats related to the 2025 winter school. The guide is an incremental update to the version used in the 2024 GMAP Winter School.
 
+[2026 QGIS troubleshooting guide](https://docs.google.com/document/d/1XdjdoP74LV97FmdbPvjjXyGAmbVLVnh_/edit?usp=sharing&ouid=105066038883334586847&rtpof=true&sd=true)
+
 # General GIS resources
 Assorted resources:
 
